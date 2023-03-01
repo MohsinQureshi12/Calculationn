@@ -1,4 +1,4 @@
-function Sub(a,b) {
-    return a-b
+function Mul(a,b) {
+    return a*b
 }
-Sub(12,5)
+Mul(12,5)
