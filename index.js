@@ -1,4 +1,4 @@
-function Sum(a,b) {
-    return a+b
+function Sub(a,b) {
+    return a-b
 }
-Sum(12,5)
+Sub(12,5)
